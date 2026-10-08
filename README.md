@@ -1,8 +1,12 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282828,100:fe8019&height=120&section=header" width="100%" alt="" />
+
 # Samuel Quaigraine
 
 **Software Engineer and Data Engineer** · Mathematics
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FE8019&center=true&vCenter=true&width=640&height=50&lines=Software+and+data;Mathematics;Practice+makes+permanence;Building+is+how+I+learn" alt="Software and data, mathematics, practice makes permanence, building is how I learn" />
 
 **I'm a Software Engineer and Data Engineer with a mathematical background who enjoys building systems, working with data, doing research, and going unnecessarily deep into things I'm curious about.**
 
@@ -35,95 +39,17 @@ And somewhere along the way, I became a bit of a research nerd.
 
 ---
 
-## My Philosophy
+## In short
 
-### Practice makes permanence.
+**Practice makes permanence.** I don't get good at something by understanding it once. I practice it, build with it, break it, figure out why, and do it again, until it becomes intuition. Building is how I learn.
 
-That's probably the simplest way to describe how I learn and how I approach engineering.
+Software, data, mathematics, and research belong together for me. I like working across the stack, and I care about data as more than a move from A to B: where it comes from, how it changes, where it goes, whether I can trust it, and whether someone can actually use it.
 
-I don't believe you become good at something by understanding it once.
+I'd rather understand the problem first, then pick the technology that makes sense.
 
-- You practice it.
-- You build with it.
-- You break things with it.
-- You make mistakes.
-- You figure out why they happened.
-- Then you do it again.
+If I don't understand something, I want to understand it. If I understand it, I want to know whether I can build with it. If I can build with it, I want to know whether I can build it better.
 
-Over time, something that once required conscious effort starts becoming intuition.
-
-That's how I approach **software engineering, mathematics, data, and research**.
-
-I'm not particularly interested in pretending I know everything. I'd rather be the person who can say *"I don't know this yet"* and then go figure it out.
-
-For me, learning isn't separate from building.
-
-**Building is how I learn.**
-
----
-
-## What I Do
-
-### Software Engineering
-
-I enjoy building software from the ground up, from interfaces and APIs to databases and the systems connecting everything together.
-
-I'm particularly interested in:
-
-- Full-stack web applications
-- Backend systems and APIs
-- System architecture
-- Database design
-- Authentication and authorization
-- Developer tools
-- Performance and reliability
-- Cloud and deployment workflows
-
-I enjoy working across the stack because I want to understand how the pieces fit together, not just the piece directly in front of me.
-
-### Data Engineering
-
-I'm also interested in the engineering side of data.
-
-I enjoy working with databases, transforming data, designing data flows, building pipelines, and thinking about how raw information becomes something that can actually be used.
-
-For me, data engineering isn't just about moving data from A to B. It's about understanding:
-
-- Where does the data come from?
-- How does it change?
-- Where does it go?
-- Can I trust it?
-- Can someone actually use it?
-
-Those questions are what make the field interesting to me.
-
-### Research
-
-Research is another part of technology that I genuinely enjoy.
-
-I like problems where there isn't an obvious answer.
-
-I'll read papers, go through documentation, investigate existing approaches, work with datasets, run experiments, test assumptions, and occasionally end up far deeper down a rabbit hole than I originally planned.
-
-Sometimes that research is mathematical. Sometimes it's related to machine learning. Sometimes it's software engineering. Sometimes it's simply trying to understand a problem that caught my attention.
-
-I enjoy the process of going from **"I wonder if..."** to **"Let's find out."**
-
----
-
-## Mathematics → Engineering
-
-I'm a Mathematics student, and I don't see mathematics as something completely separate from software engineering.
-
-Mathematics taught me how to think.
-
-It taught me to be comfortable with abstraction, recognize structure, reason carefully, work through problems without immediately knowing the answer, and distinguish between something that *looks correct* and something that can actually be justified.
-
-Those habits have followed me into engineering.
-
-I'm particularly interested in the space where **Mathematics × Software × Data × Research** come together.
-
-That's where I find some of the most interesting problems.
+I'm still early in my career. I'm not trying to know everything. I'm trying to become the kind of engineer who can learn whatever the problem requires.
 
 ---
 
@@ -206,71 +132,9 @@ And yes, I spend a probably unnecessary amount of time in the terminal.
 
 ---
 
-## What I Like Building
-
-I'm especially interested in software that solves problems beyond the screen.
-
-Some of the areas I'm exploring include:
-
-- Data-intensive applications
-- Machine learning systems
-- Health technology
-- Decision-support systems
-- Data pipelines and analytics
-- Mathematical modelling
-- Developer tools
-- Research-driven software
-- Systems that make complicated information easier to understand
-
-I'm less interested in building something just because a technology is trending.
-
-I'd rather understand **the problem first**, then figure out which technology actually makes sense.
-
----
-
-## The Nerdy Part
-
-I genuinely enjoy learning things that have no immediate practical payoff.
-
-Sometimes I'll look into a mathematical concept simply because I want to understand it. Sometimes I'll read a research paper because the title looked interesting. Sometimes I'll start investigating how something works and realize several hours have disappeared. And sometimes I'll build a completely unnecessary prototype just to answer a question that has been sitting in my head.
-
-I don't think that's a bad thing.
-
-Curiosity is one of the reasons I enjoy engineering.
-
-- If I don't understand something, I want to understand it.
-- If I understand it, I want to know whether I can build with it.
-- If I can build with it, I want to know whether I can build it better.
-
-That's the loop.
-
----
-
-## Still Learning. Still Building.
-
-I'm still early in my career, and there's a lot I don't know yet.
-
-But that's part of the excitement.
-
-Every project gives me something new to learn. Every bug teaches me something. Every failed approach gives me another data point. Every difficult mathematical problem makes the next one slightly less intimidating.
-
-I'm not trying to know everything.
-
-I'm trying to become the kind of engineer who can **learn whatever the problem requires**.
-
-Because ultimately, that's what *Practice makes permanence* means to me.
-
-- Do it.
-- Study it.
-- Break it.
-- Understand it.
-- Do it again.
-
-Eventually, it becomes part of you.
-
----
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fe8019,100:282828&height=100&section=footer" width="100%" alt="" />
 
 Welcome to my little corner of GitHub.
 
@@ -294,7 +158,7 @@ Welcome to my little corner of GitHub.
 
 ### GitHub Trophies
 
-<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=samuel6814&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" />
+<img alt="GitHub trophies" src="https://trophy.ryglcloud.net/?username=samuel6814&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" />
 
 ### Random Dev Quote
 
@@ -303,9 +167,9 @@ Welcome to my little corner of GitHub.
 ### Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuel6814/samuel6814/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samuel6814/samuel6814/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/samuel6814/samuel6814/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="assets/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
