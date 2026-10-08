@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282828,100:fe8019&height=120&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282828,100:fe8019&height=120&section=header&animation=twinkling" width="100%" alt="" />
 
 # Samuel Quaigraine
 
@@ -58,6 +58,10 @@ I'm still early in my career. I'm not trying to know everything. I'm trying to b
 I'm comfortable working across different parts of the software and data stack.
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FE8019&center=true&vCenter=true&width=640&height=50&lines=JavaScript+and+TypeScript;Python+and+SQL;React+and+Next.js;Data+and+research" alt="JavaScript and TypeScript, Python and SQL, React and Next.js, data and research" />
+
+<img src="assets/skills-marquee.svg" width="100%" alt="Scrolling list of languages and tools" />
 
 ### Languages
 
